@@ -14,6 +14,8 @@ The objective of the game is to move and rotate falling geometric shapes to form
 6. to Drop shape : press enter.
 
 
+*NOTE :* Correct file paths if neccessary and add your own favicon.
+
 ## Author
 
 GitHub : [RyukGitHub](https://github.com/RyukGitHub)
